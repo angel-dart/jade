@@ -4,6 +4,9 @@
 
 Pug (nee Jade) view generator for Angel.
 
+**`package:jaded` currently is broken on Dart 1.0, so this repo
+is blocked until some fix or alternative library comes out.**
+
 # Installation
 In your `pubspec.yaml`:
 
