@@ -1,3 +1,8 @@
+# DEPRECATED
+`package:jaded` seems to be all but abandoned. Regardless, its approach to templating is far from efficient, and stil doesn't allow for much flexibility in terms of executing code.
+
+Prefer [`jael`](https://github.com/angel-dart/jael), as it is *far* more expressive, works with Dart 2, and is much faster.
+
 # pug
 [![version 1.0.0](https://img.shields.io/badge/pub-1.0.0-brightgreen.svg)](https://pub.dartlang.org/packages/angel_pug)
 [![build status](https://travis-ci.org/angel-dart/pug.svg)](https://travis-ci.org/angel-dart/pug)
